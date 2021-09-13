@@ -1,4 +1,4 @@
-# Dataset of mask wearing<br/>
+# Dataset of mask wearing - 人臉口罩偵測資料集<br/>
 ![image](https://github.com/ch-tseng/Dataset_for_Mask_Wearing/raw/main/eden.png)
 ## The dataset is offered by EDEN Social Welfare Foundation<br/>
 ## 本資料集由伊甸數位庇護工廠於2020年疫情剛興起時所製作提供<br/><br/>
