@@ -1,6 +1,7 @@
 # Dataset of mask wearing<br/>
 
-## The dataset is offered by EDEN Social Welfare Foundation 本資料集由伊甸數位庇護工廠所提供<br/>
+## The dataset is offered by EDEN Social Welfare Foundation<br/>
+## 本資料集由伊甸數位庇護工廠所提供<br/><br/>
 Labled images: 679 images
 Format: VOC xml files
 Classes: bad (no mask weared), good (mask weared correctly), none (mask not weared correctly)<br/><br/>
