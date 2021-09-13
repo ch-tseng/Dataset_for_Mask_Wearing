@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20200201002898.jpg</filename>
+	<path>P:\mask_mouth\images\20200201002898.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>680</xmin>
+			<ymin>52</ymin>
+			<xmax>738</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

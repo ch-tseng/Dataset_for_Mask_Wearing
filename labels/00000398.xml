@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ckeditor-5e450681b7dad.jpg</filename>
+	<path>P:\mask_mouth\images\ckeditor-5e450681b7dad.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>980</width>
+		<height>1470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>208</ymin>
+			<xmax>541</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

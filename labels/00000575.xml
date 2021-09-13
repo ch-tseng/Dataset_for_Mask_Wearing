@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Nose_exposed_N95_grande.jpg</filename>
+	<path>P:\mask_mouth\images\Nose_exposed_N95_grande.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>none</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>128</ymin>
+			<xmax>486</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

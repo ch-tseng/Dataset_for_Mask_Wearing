@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>china-coronavirus-beijing-station-spring-festival.jpg</filename>
+	<path>P:\mask_mouth\images\china-coronavirus-beijing-station-spring-festival.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1735</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>890</xmin>
+			<ymin>605</ymin>
+			<xmax>1586</xmax>
+			<ymax>1313</ymax>
+		</bndbox>
+	</object>
+</annotation>

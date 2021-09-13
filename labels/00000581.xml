@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>NUZZHAB7IMI6VHQQW44IVOMBHU.jpg</filename>
+	<path>P:\mask_mouth\images\NUZZHAB7IMI6VHQQW44IVOMBHU.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3500</width>
+		<height>2333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1558</xmin>
+			<ymin>1099</ymin>
+			<xmax>1911</xmax>
+			<ymax>1434</ymax>
+		</bndbox>
+	</object>
+</annotation>

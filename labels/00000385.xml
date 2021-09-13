@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>CHINA-HEALTH_THAIaaaLAND_1580210047.jpg</filename>
+	<path>P:\mask_mouth\images\CHINA-HEALTH_THAIaaaLAND_1580210047.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>448</xmin>
+			<ymin>108</ymin>
+			<xmax>735</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

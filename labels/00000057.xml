@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>135e-huxwryw6451820.jpg</filename>
+	<path>P:\mask_mouth\images\135e-huxwryw6451820.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>581</width>
+		<height>848</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>none</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>226</ymin>
+			<xmax>461</xmax>
+			<ymax>643</ymax>
+		</bndbox>
+	</object>
+</annotation>

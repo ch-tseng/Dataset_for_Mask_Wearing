@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>asian-child-wearing-mask-prevent-protection-factor-for-n95-filtering-face-mask-safty-white-mask-T5WP83.jpg</filename>
+	<path>P:\mask_mouth\images\asian-child-wearing-mask-prevent-protection-factor-for-n95-filtering-face-mask-safty-white-mask-T5WP83.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>562</xmin>
+			<ymin>285</ymin>
+			<xmax>960</xmax>
+			<ymax>749</ymax>
+		</bndbox>
+	</object>
+</annotation>

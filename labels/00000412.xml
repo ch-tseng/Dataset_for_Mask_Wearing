@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Coronavirus-China.jpeg</filename>
+	<path>P:\mask_mouth\images\Coronavirus-China.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4029</width>
+		<height>2841</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1453</xmin>
+			<ymin>980</ymin>
+			<xmax>1817</xmax>
+			<ymax>1323</ymax>
+		</bndbox>
+	</object>
+</annotation>

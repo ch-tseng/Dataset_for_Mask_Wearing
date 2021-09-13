@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2020-02-11t080104z_642105741_rc28ye91qg4c_rtrmadp_3_china-health.jpeg</filename>
+	<path>P:\mask_mouth\images\2020-02-11t080104z_642105741_rc28ye91qg4c_rtrmadp_3_china-health.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1240</width>
+		<height>698</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>576</xmin>
+			<ymin>126</ymin>
+			<xmax>672</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Cotton-PM2-5-Black-mouth-Mask-anti-dust-mask-Activated-carbon-filter-Windproof-Mouth-muffle.jpg</filename>
+	<path>P:\mask_mouth\images\Cotton-PM2-5-Black-mouth-Mask-anti-dust-mask-Activated-carbon-filter-Windproof-Mouth-muffle.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>399</xmin>
+			<ymin>316</ymin>
+			<xmax>801</xmax>
+			<ymax>772</ymax>
+		</bndbox>
+	</object>
+</annotation>

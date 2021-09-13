@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>a2dcb0aa026a40d7b97e9326a9aed0b1.jpeg</filename>
+	<path>P:\mask_mouth\images\a2dcb0aa026a40d7b97e9326a9aed0b1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>none</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>391</ymin>
+			<xmax>745</xmax>
+			<ymax>836</ymax>
+		</bndbox>
+	</object>
+</annotation>

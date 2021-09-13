@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>shutterstock_1145933543-e1579497052960.jpg</filename>
+	<path>P:\mask_mouth\images\shutterstock_1145933543-e1579497052960.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>770</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>563</xmin>
+			<ymin>209</ymin>
+			<xmax>758</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

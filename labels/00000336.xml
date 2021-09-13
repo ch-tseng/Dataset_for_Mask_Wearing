@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>asian-girl-wearing-a-dust-mask-pm25-on-bed-health-care-concept-T6BBWK.jpg</filename>
+	<path>P:\mask_mouth\images\asian-girl-wearing-a-dust-mask-pm25-on-bed-health-care-concept-T6BBWK.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>937</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>791</xmin>
+			<ymin>225</ymin>
+			<xmax>1130</xmax>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+</annotation>

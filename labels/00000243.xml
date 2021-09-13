@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>520ba294-d9d3-11e9-80eb-3aa57b6d2433_image_hires_212554.jpg</filename>
+	<path>P:\mask_mouth\images\520ba294-d9d3-11e9-80eb-3aa57b6d2433_image_hires_212554.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>678</xmin>
+			<ymin>209</ymin>
+			<xmax>794</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

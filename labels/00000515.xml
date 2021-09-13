@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_4_1_7_2_24752714-1-eng-GB_philippine.jpg</filename>
+	<path>P:\mask_mouth\images\https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_4_1_7_2_24752714-1-eng-GB_philippine.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>173</ymin>
+			<xmax>598</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

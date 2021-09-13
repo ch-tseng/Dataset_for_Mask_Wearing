@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>a-lady-wears-a-mask-while-visiting-tiananmen-square-in-beijing-february-DWC228.jpg</filename>
+	<path>P:\mask_mouth\images\a-lady-wears-a-mask-while-visiting-tiananmen-square-in-beijing-february-DWC228.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>957</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>233</ymin>
+			<xmax>882</xmax>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+</annotation>

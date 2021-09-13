@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>istockphoto-609942644-170667a.jpg</filename>
+	<path>P:\mask_mouth\images\istockphoto-609942644-170667a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>479</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>110</ymin>
+			<xmax>244</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

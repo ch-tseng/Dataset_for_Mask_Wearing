@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>medicom_50_1578883042_4270ce52_progressive.jpg</filename>
+	<path>P:\mask_mouth\images\medicom_50_1578883042_4270ce52_progressive.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1013</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>869</xmin>
+			<ymin>693</ymin>
+			<xmax>994</xmax>
+			<ymax>932</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>a-asian-man-wear-hygienic-mask-for-protect-pm25-dust-on-white-background-RWW8BW.jpg</filename>
+	<path>P:\mask_mouth\images\a-asian-man-wear-hygienic-mask-for-protect-pm25-dust-on-white-background-RWW8BW.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>868</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>593</xmin>
+			<ymin>326</ymin>
+			<xmax>877</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>

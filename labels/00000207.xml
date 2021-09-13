@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>304193_medium.jpg</filename>
+	<path>P:\mask_mouth\images\304193_medium.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>674</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>135</ymin>
+			<xmax>449</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

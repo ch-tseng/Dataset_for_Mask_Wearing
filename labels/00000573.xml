@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>NINTCHDBPICT000556650347-1.jpg</filename>
+	<path>P:\mask_mouth\images\NINTCHDBPICT000556650347-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1132</xmin>
+			<ymin>744</ymin>
+			<xmax>1802</xmax>
+			<ymax>1364</ymax>
+		</bndbox>
+	</object>
+</annotation>
